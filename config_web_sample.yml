@@ -1,0 +1,21 @@
+login:
+  login_page: "http://fhsys.fh-salzburg.ac.at"
+  user: 
+  password: 
+  
+user:
+  user_page: "https://fhsys.fh-salzburg.ac.at/controller/priv/doPersonensuche.php"
+  feld: beide
+  methode: beginntMit
+  suchbegriff: " "
+  aktion: personenSuchergebnissAuflisten
+  pagePath: "Allg.+Infos%3Cimg+src%3D%27%2Fimg%2Fpfeil_pfad.gif%27+border%3D%270%27%3EPersonen%3Cimg+src%3D%27%2Fimg%2Fpfeil_pfad.gif%27+border%3D%270%27%3E%3Cfont+class%3Dbreadred%3EPersonensuche%3C%2Ffont%3E"
+
+profil:
+  image_page: "https://fhsys.fh-salzburg.ac.at/controller/priv/perBild.php?perBildId="
+  profil_page: "https://fhsys.fh-salzburg.ac.at/controller/priv/doPersonensuche.php"
+  feld: beide
+  methode: beginntMit
+  suchbegriff: " "
+  aktion: zeigeDetailsEinerPerson
+  pagePath: "llg.+Infos%3Cimg+src%3D%27%2Fimg%2Fpfeil_pfad.gif%27+border%3D%270%27%3EPersonen%3Cimg+src%3D%27%2Fimg%2Fpfeil_pfad.gif%27+border%3D%270%27%3E%3Cfont+class%3Dbreadred%3EPersonensuche%3C%2Ffont%3E"
