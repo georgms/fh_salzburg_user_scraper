@@ -10,6 +10,11 @@
 - Enter your fh-username and fh-password in the login scetion of 'config_web.yaml'.
 - bundle install
 
+### Search
+- In the 'config_web.yml' file you will find the 'suchbegriff' section.
+- There you can insert your prefered search term.
+- If you want to scrape all users, you have to instert a single space (" ").
+
 ### Requirements
 -  The script requires [minimagick](https://github.com/minimagick/minimagick "A ruby wrapper for ImageMagick or GraphicsMagick command line.")
 -  To run minimagick ImageMagick or GraphicsMagick command-line tool has to be installed.

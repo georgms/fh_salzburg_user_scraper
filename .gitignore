@@ -1,3 +1,11 @@
 # privat files #
 ############
 config_web.yml
+
+# img #
+#######
+img/
+
+# output #
+##########
+output/
