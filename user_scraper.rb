@@ -1,3 +1,5 @@
+#!/usr/local/bin/ruby
+
 require 'rubygems'
 require 'mini_magick'
 require 'mechanize'
